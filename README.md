@@ -1,2 +1,2 @@
 # The-frist-repository
-just a repository
+日常练习
