@@ -39,6 +39,7 @@ int GetTop(Stack s){
     }
     return -1;
 }
+// 测试用例
 int main(){
     Stack s;
     InitStack(&s);
