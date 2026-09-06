@@ -99,6 +99,7 @@ void DancePartner(Person dancer[],int num){
     Destroy(&Md);
 }
 
+// 测试用例
 int main(){
     Person people[]={
         {"小红",'F'},
